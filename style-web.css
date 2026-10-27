@@ -1,0 +1,27 @@
+.parent1{
+display: flex;
+justify-content: space-between;
+gap:50px;
+outline: 1px solid red;
+justify-content: center;
+}
+
+
+.center{
+display:flex;
+justify-content: center;
+justify-content: baseline;
+gap: 15px;
+
+outline: 1px solid red;
+}
+
+.leftSide{
+display: block;
+margin-right: 100px;
+
+}
+.rightSide{
+display:block;
+mar
+}
