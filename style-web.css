@@ -1,27 +1,26 @@
-.parent1{
-display: flex;
-justify-content: space-between;
-gap:50px;
-outline: 1px solid red;
-justify-content: center;
-}
-
-
-.center{
+.log-in{
 display:flex;
+align-items: baseline;
+justify-content: space-between;
+outline: 1px solid red;
+padding: 0 100px;
+margin:0 100px;
+}
+.elements{
+display: flex;
+gap: 20px;
 justify-content: center;
-justify-content: baseline;
-gap: 15px;
+}
+.text{
+display: flex;
+flex-direction: column;
+align-items: center;
+
 
 outline: 1px solid red;
 }
+.examples{
 
-.leftSide{
-display: block;
-margin-right: 100px;
 
-}
-.rightSide{
-display:block;
-mar
+outline: 1px solid red;
 }
